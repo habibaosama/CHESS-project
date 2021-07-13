@@ -7,7 +7,7 @@
 
 -The user to input move like: A1D1 (capital letters).
 
-- If user input wrong move or not in the right way “INVALID MOVE” will
+-If user input wrong move or not in the right way “INVALID MOVE” will
 appear and user will be able to write it again.
 
 -To save the game when it is player’s turn input : ‘s’(small letter).
